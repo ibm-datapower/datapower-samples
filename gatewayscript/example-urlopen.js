@@ -1,11 +1,3 @@
-/*
-  Licensed Materials - Property of IBM
-  IBM WebSphere DataPower Appliances
-  Copyright IBM Corporation 2014. All Rights Reserved.
-  US Government Users Restricted Rights - Use, duplication or disclosure
-  restricted by GSA ADP Schedule Contract with IBM Corp.
-*/
-
 var urlopen = require ('urlopen');
 
 // define the urlopen options

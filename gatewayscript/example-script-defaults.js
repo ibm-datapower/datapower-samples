@@ -1,12 +1,4 @@
 /*
-  Licensed Materials - Property of IBM
-  IBM WebSphere DataPower Appliances
-  Copyright IBM Corporation 2015. All Rights Reserved.
-  US Government Users Restricted Rights - Use, duplication or disclosure
-  restricted by GSA ADP Schedule Contract with IBM Corp.
-*/
-
-/*
  * In a GatewayScript program, there is a predefined object: 'script' which is used
  * to access script level settings. It is available in both a GWS action script and
  * a module script. Currently, the 'script' object provides the following API:

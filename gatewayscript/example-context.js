@@ -1,11 +1,3 @@
-/*
-  Licensed Materials - Property of IBM
-  IBM WebSphere DataPower Appliances
-  Copyright IBM Corporation 2014. All Rights Reserved.
-  US Government Users Restricted Rights - Use, duplication or disclosure
-  restricted by GSA ADP Schedule Contract with IBM Corp.
-*/
-
 // Read the input as a JSON object
 session.input.readAsJSON (function (error, json) {
     if (error) {

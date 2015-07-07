@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  Licensed Materials - Property of IBM
-  IBM WebSphere DataPower Appliances
-  Copyright IBM Corporation 2015. All Rights Reserved.
-  US Government Users Restricted Rights - Use, duplication or disclosure
-  restricted by GSA ADP Schedule Contract with IBM Corp.
--->
-<!--
     The extension function and extension element 'dp:gatewayscript' could be
     called from an XSLT stylehseet to execute a given js file.
 

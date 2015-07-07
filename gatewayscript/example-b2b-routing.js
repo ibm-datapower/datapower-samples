@@ -1,10 +1,3 @@
-/*
-  Licensed Materials - Property of IBM
-  IBM WebSphere DataPower Appliances
-  Copyright IBM Corporation 2015. All Rights Reserved.
-  US Government Users Restricted Rights - Use, duplication or disclosure
-  restricted by GSA ADP Schedule Contract with IBM Corp.
-*/
 // This script demonstrates an example scenario to examine and set the
 // from and to partner IDs using service variables based on the protocol
 // information.
