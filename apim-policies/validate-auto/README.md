@@ -37,12 +37,12 @@ JSON or XML messages for REST APIs.
        select the proper action and press apply.
     8) Press apply to save the chnages to the first conditional action.   
     9) View the details for the second conditional action, and select the "Condition" tab       
-   10) Edit the details for the condition, the action will be listed as 
+    10) Edit the details for the condition, the action will be listed as 
           validate-auto-xsd-jsv-convert-xml-to-json-xform
        but should be 
           validate-auto-xsd-jsv-convert-xml-to-json-xform_apim_<some number>_v1.0
        select the proper action and press apply.
-   11) Press apply to save the chnages to the first conditional action.   
-   12) Save the configuration changes
+    11) Press apply to save the chnages to the first conditional action.   
+    12) Save the configuration changes
        
 ```
