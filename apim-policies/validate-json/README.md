@@ -1,4 +1,4 @@
-# Validate XML
+# Validate JSON
 
 The Validate JSON policy can be used in IBM API Management to validate 
 JSON messages for REST APIs.
