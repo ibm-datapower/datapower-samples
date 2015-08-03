@@ -1,4 +1,4 @@
-# Validate XML
+# XSLT Policy
 
 The XSLT policy can be used in IBM API Management to alter 
 XML payloads for SOAP or REST APIs.
