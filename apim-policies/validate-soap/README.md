@@ -1,4 +1,4 @@
-# Validate XML
+# Validate SOAP
 
 The Validate SOAP policy can be used in IBM API Management to validate 
 SOAP messages for SOAP or REST APIs.
