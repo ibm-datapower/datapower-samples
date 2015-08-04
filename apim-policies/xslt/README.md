@@ -5,8 +5,8 @@ XML payloads for SOAP or REST APIs.
 
 ## Prequisites
 
-    IBM API Management 4.0.2.0
-    IBM Datapower 6.0.0.0
+    IBM API Management 4.0.2
+    IBM Datapower 6.0.0
     A valid XSLT, accessible via URL, either on the DataPower appliance (local:/// or store:///) or via HTTP.
 
 ```
