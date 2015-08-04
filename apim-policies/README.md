@@ -5,7 +5,7 @@ IBM API Management.
 
 ## Prequisites
 
-    IBM API Management version 4.0.2.0
+    IBM API Management version 4.0.2
     Minimum IBM DataPower Gateway version varies per policy 
 
 ```
