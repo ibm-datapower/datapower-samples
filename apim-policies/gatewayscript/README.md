@@ -1,6 +1,6 @@
-# JavaScript Policy
+# GatewayScript Policy
             
-The JavaScript policy can be used in IBM API Management to alter 
+The GatewayScript policy can be used in IBM API Management to alter 
 JSON payloads for REST APIs.
 
 ## Prequisites
