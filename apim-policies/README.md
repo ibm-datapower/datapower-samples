@@ -34,6 +34,3 @@ You can download any of the policies provided and reuse them to make your own by
  13. Finally, go to your APIm environment and import the zip file. If there were no naming errors, the policy should be imported correctly into the API manager.
  14. Login to the DP appliance and verify the policy was deployed correctly, the rule name will now look like:
  *alice-main_apim_e55cce330e4b0b436ff65a06f_v1.0*
-
-
-----------
