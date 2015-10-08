@@ -21,16 +21,18 @@ You can download any of the policies provided and reuse them to make your own by
 
  7. Move all contents from “local://policy/gatewayscript-policy” to “local://policy/alice-policy”
 
- 8. Restart the *foo* domain
+ 8. Restart the *foo* domain (don't save your configuration before this) to get the DataPower appliance to load the the newly renamed objects.
 
  9. Verify all of the artifacts from “alice-policy” policy are there.
 
- 10. Export your “alice-policy-main” rule action, and give it the name “alice-policy” which after download will be “alice-policy.zip”.
+ 10. Make chages to the processing rules to implement your policy requirements. see: http://www-01.ibm.com/support/knowledgecenter/SSWHYP_4.0.0/com.ibm.apimgmt.policy.doc/capim_custpolicies_overview.html
 
- 11. Modify the yaml file so that it matches the new policy implementation.
+ 11. Export your “alice-policy-main” rule action, and give it the name “alice-policy” which after download will be “alice-policy.zip”.
 
- 12. Now we have a new yaml file and a new implementation. We just need to create a zip file with all the artifacts: the yaml file, and implementation folder. This will become  our new policy to be consumed by APIm.
+ 12. Modify the yaml file so that it matches the new policy implementation.
 
- 13. Finally, go to your APIm environment and import the zip file. If there were no naming errors, the policy should be imported correctly into the API manager.
+ 13. Now we have a new yaml file and a new implementation. We just need to create a zip file with all the artifacts: the yaml file, and implementation folder. This will become  our new policy to be consumed by APIm.
+
+ 14. Finally, go to your APIm environment and import the zip file. If there were no naming errors, the policy should be imported correctly into the API manager.
  14. Login to the DP appliance and verify the policy was deployed correctly, the rule name will now look like:
  *alice-main_apim_e55cce330e4b0b436ff65a06f_v1.0*
