@@ -9,7 +9,7 @@ You can download any of the policies provided and reuse them to make your own by
 
  1. Download policy sample, e.g. gatewayscript-policy, to your system (zip file gatewayscript-policy.zip). *You will have to click on “View Raw” to be prompted with the download option*.
 
- 2. Once downloaded to your system, unzip the file. There should a yaml definition (e.g. gatewayscript-policy.yaml) and an implementation folder. The DataPower artifacts can be found in the implementation folder in a zip file. The zip file may have the same name as the one downloaded (in the case of the GatewayScript policy, gatewayscript-policy.zip).
+ 2. Once downloaded to your system, unzip the file. There should be a yaml definition (e.g. gatewayscript-policy.yaml) and an implementation folder. The DataPower artifacts can be found in the implementation folder in a zip file. The zip file may have the same name as the one downloaded (in the case of the GatewayScript policy, gatewayscript-policy.zip).
 
  3. Login to the DataPower appliance and create a new DataPower domain (e.g. "foo")
 
